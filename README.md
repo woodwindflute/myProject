@@ -1,6 +1,7 @@
 # myProject (Aframe 場景搭建)
 110 教育部師培計畫 沉浸式新興科技體驗設計 最終網頁成品  
-可至 https://woodwindflute.github.io/myProject/ 開啟  
+可搭配 Example-Solution 中的 WebVR.pptx 投影片做練習  
+本作品可至 https://woodwindflute.github.io/myProject/ 開啟  
 若以原始碼啟動  
 ## 方法一
 須關閉瀏覽器安全性設定，如：  
