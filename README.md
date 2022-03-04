@@ -9,6 +9,6 @@
 再以此模式下的 chrome 啟動  
 ## 方法二
 使用網頁伺服器，如：  
-`cd C:\myProject`
-`python3 -m http.server`
+`cd C:\myProject`  
+`python3 -m http.server`  
 再至相對應的 port 中存取
