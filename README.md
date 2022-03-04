@@ -3,6 +3,6 @@
 可至 https://woodwindflute.github.io/myProject/ 開啟  
 若以原始碼啟動須關閉瀏覽器安全性設定  
 如：  
->cd C:\Program Files (x86)\Google\Chrome\Application  
->chrome.exe --user-data-dir="C:/Chrome dev session" --disable-web-security  
+`cd C:\Program Files (x86)\Google\Chrome\Application`  
+`chrome.exe --user-data-dir="C:/Chrome dev session" --disable-web-security`  
 再以此模式下的 chrome 啟動
